@@ -1,0 +1,19 @@
+name: subpackage_test
+description: whatever
+version: 0.0.1
+homepage:
+
+publish_to: none
+
+resolution: workspace
+
+environment:
+  sdk: ^3.11.5
+  flutter: ">=1.17.0"
+
+dependencies:
+  logger:
+  
+dev_dependencies:
+
+flutter:
